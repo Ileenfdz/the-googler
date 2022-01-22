@@ -1,5 +1,5 @@
-export function app() {
-    console.log('Connected to app');
-}
+import { add } from './modules/add.js';
 
-app();
+const addBtn = document.getElementById("addBtn");
+
+addBtn.addEventListener('click', add);

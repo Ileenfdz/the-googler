@@ -1,0 +1,63 @@
+.title-div, .hashtag-div, .description-div, .add-div{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.input-title, .hashtag-title, .description-title {
+    width: 300px;
+    height: 70px;
+    padding: 0px 40px;
+    font-size: 20px;
+    margin-bottom: 20px;
+
+    background: #393B54;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+}
+
+.add-btn {
+    width: 120px;
+    height: 80px;
+
+    background-color: #393B54;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+    font-size: 30px;
+}
+
+.add-btn:hover {
+    color: white;
+}
+
+
+
+/* .add-button {
+    width: 160px;
+    height: 70px;
+    margin: 1.5em 0em 0em 3em;
+
+    background-color: rgba(171, 40, 192, 1);
+    color: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+    font-size: 30px;
+
+}
+
+.add-button:hover {
+    color: #A0CB8C;
+}
+
+.card-container {
+    display: flex;
+    justify-content:center;
+    
+    width: 534px;
+    height: 150px;
+
+    background: #393B54;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+} */
+
