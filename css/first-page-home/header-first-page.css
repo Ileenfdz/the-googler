@@ -1,0 +1,17 @@
+header {
+    display: flex;
+    justify-content: center;
+
+    width: auto;
+
+    color: #A0CB8C;
+    background-color: rgba(57, 59, 84, 1);
+}
+
+.header-text-the {
+    font-size: 36px;
+}
+
+.header-text-googler {
+    font-size: 48px;
+}

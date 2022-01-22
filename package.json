@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Ileenfdz/the-googler#readme",
   "dependencies": {
-    "bootstrap": "^5.1.3"
+    "bootstrap": "^5.1.3",
+    "node-sass": "^7.0.1"
   }
 }

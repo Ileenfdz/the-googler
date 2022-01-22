@@ -1,0 +1,28 @@
+.div-main-text {
+    display: flex;
+    justify-content: center; 
+    height: fit-content;
+}
+
+.main-text {
+    width: fit-content;
+    height: fit-content;
+    padding: 100px 20px;
+
+    font-weight: 800;
+    font-size: 72px;
+    text-align: center;
+
+    color: #AB28C0;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+
+}
+
+@media (min-width: 992px) { 
+    .main-text {
+        width: 600px;
+
+        font-size: 90px;
+    }
+}
