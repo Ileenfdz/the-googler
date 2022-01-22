@@ -1,0 +1,20 @@
+.input-div {
+    display: flex;
+    justify-content: center;
+}
+
+.input-email, .input-password {
+    width: 570px;
+    height: 90px;
+    padding: 0px 40px;
+    margin: 50px 0px;
+    font-size: 25px;
+
+    background: #393B54;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+}
+
+.input-email::placeholder, .input-password::placeholder {
+    color: #FFFFFF;
+}

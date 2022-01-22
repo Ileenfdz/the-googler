@@ -1,6 +1,17 @@
+.link-header {
+    text-decoration: none;
+
+    color: #A0CB8C;
+}
+
+.link-header:hover {
+    color: #AB28C0;
+}
+
 header {
     display: flex;
     justify-content: center;
+
     width: auto;
 
     color: #A0CB8C;

@@ -1,14 +1,16 @@
-.buttons { 
+.buttons {
+    text-decoration: none;
+    
     display: flex;
     justify-content:center;
 }
 
-.link-login, .link-register {
+.link-login{
     text-decoration: none;
+
     color: #FFFFFF;
 }
-
-.login-button, .register-button{
+.login-button {
     width: 162px;
     height: 66px;
 
@@ -18,14 +20,6 @@
     font-size: 30px;
 }
 
-.login-button {
-    margin-right: 20px;
-}
-
-.register-button {
-    margin-left: 20px;
-}
-
-.link-login:hover , .link-register:hover{
+.link-login:hover{
     color: #A0CB8C;
 }

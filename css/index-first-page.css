@@ -1,11 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Rasa:wght@300&family=Roboto&display=swap');
-@import './imports.css';
+@import './imports-first-page.css';
 
 *{
 	margin: 0;
 	padding: 0;
 	list-style: none;
-	text-decoration: none;
 	border: none;
 	outline: none;
 }
@@ -14,10 +13,11 @@ header, main, footer {
 	font-family: Roboto, "Helvetica Neue";
 }
 
-main{
+main {
     justify-content: center;
 
 }
+
 body {
 	background-color:rgba(43, 45, 61, 1) !important;
 	
